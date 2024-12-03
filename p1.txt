@@ -1,6 +1,9 @@
 hlo
 there
+<<<<<<< HEAD
 
 dgfjhds
 hdfgwyf
 hgseyd
+=======
+>>>>>>> parent of ec6e6ae (Update p1.txt)
